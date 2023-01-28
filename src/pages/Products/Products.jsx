@@ -1,8 +1,8 @@
 import React from 'react'
-
+import './Products.scss'
 const Products = () => {
   return (
-    <div>
+    <div className='products'>
       <h3>Products page</h3>
     </div>
   )
